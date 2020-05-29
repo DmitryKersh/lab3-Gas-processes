@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/lab3_Gas.dir/AbstractProcess.cpp.o CMakeFiles/lab3_Gas.dir/IsoBarProcess.cpp.o CMakeFiles/lab3_Gas.dir/IsoChorPocess.cpp.o CMakeFiles/lab3_Gas.dir/main.cpp.o  -o lab3_Gas.exe -Wl,--out-implib,liblab3_Gas.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

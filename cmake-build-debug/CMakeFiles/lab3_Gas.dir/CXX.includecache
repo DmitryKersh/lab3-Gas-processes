@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/User/Documents/GitHub/lab3-Gas/AbstractProcess.h
+iostream
+-
+
+/cygdrive/c/Users/User/Documents/GitHub/lab3-Gas/IsoBarProcess.h
+AbstractProcess.h
+/cygdrive/c/Users/User/Documents/GitHub/lab3-Gas/AbstractProcess.h
+
+/cygdrive/c/Users/User/Documents/GitHub/lab3-Gas/IsoChorPocess.h
+AbstractProcess.h
+/cygdrive/c/Users/User/Documents/GitHub/lab3-Gas/AbstractProcess.h
+
+/cygdrive/c/Users/User/Documents/GitHub/lab3-Gas/main.cpp
+iostream
+-
+vector
+-
+IsoBarProcess.h
+/cygdrive/c/Users/User/Documents/GitHub/lab3-Gas/IsoBarProcess.h
+IsoChorPocess.h
+/cygdrive/c/Users/User/Documents/GitHub/lab3-Gas/IsoChorPocess.h
+
