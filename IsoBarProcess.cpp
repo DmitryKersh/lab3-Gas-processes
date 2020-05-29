@@ -1,7 +1,3 @@
-//
-// Created by User on 29.05.2020.
-//
-
 #include "IsoBarProcess.h"
 
 void IsoBarProcess::Print() {
