@@ -1,4 +1,5 @@
-# lab3-Gas proceses
+# lab3-Gas processes
+ Газовые процессы
 
  Базовый класс - AbstractProcess, от него наследуются IsoBarProcess и IsoChorProcess.
  В абстрактном процессе меняется как объем, так и давление, а работа рассчитывается по общей формуле,
